@@ -5,9 +5,9 @@ public class HelloWorld {
 
 	 //XXXX
 	 //OOOO
+	 //OXOX
 
-
-      System.out.println("HelloWorld! 世界你好!");
+      System.out.println("HelloWorld! 瞼@竅��禮A礎n!");
     
     }
 }
